@@ -1,0 +1,34 @@
+\Device\HarddiskVolume1\Windows\System32\wininit.exe:-895054992
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-614566309
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:589275959
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-1861365502
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-1554469279
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-845246366
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-434948135
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-36835840
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-1868599652
+\Device\HarddiskVolume1\Program Files\ATI Technologies\ATI.ACE\Fuel\Fuel.Service.exe:1598268079
+\Device\HarddiskVolume1\Program Files\Microsoft SQL Server\MSSQL10.SQLEXPRESS\MSSQL\Binn\sqlservr.exe:-1060831888
+\Device\HarddiskVolume1\Windows\explorer.exe:-1466079103
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-185664146
+\Device\HarddiskVolume1\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe:242833450
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-637128497
+\Device\HarddiskVolume1\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe:-783571603
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\MOM.exe:-1056865910
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\QQ.exe:438344111
+\Device\HarddiskVolume1\Windows\System32\svchost.exe:-1979608321
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CCC.exe:-1544504137
+\Device\HarddiskVolume1\Program Files\Windows Media Player\wmpnetwk.exe:-1977977168
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\TXPlatform.exe:701765004
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\HydraVision\HydraDM.exe:-2015043160
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\HydraVision\HydraDM64.exe:-1512759512
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe:-2107643226
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe:1182072708
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\QQExternal.exe:166448452
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe:1151448651
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe:-1814576108
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\mspdbsrv.exe:1824849443
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcpackages\vcpkgsrv.exe:1812951580
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\QQExternal.exe:1690133804
+\Device\HarddiskVolume1\Windows\System32\notepad.exe:2053137088
+\Device\HarddiskVolume4\fans'C++Project\Taskiller\Debug\Taskiller.exe:1716052702

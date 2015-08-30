@@ -1,0 +1,1 @@
+int GetCRC32(unsigned char *SourceData,unsigned long nLength);

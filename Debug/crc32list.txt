@@ -1,0 +1,23 @@
+\Device\HarddiskVolume1\Windows\explorer.exe:1058962686
+\Device\HarddiskVolume1\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe:456284698
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\MOM.exe:1334055883
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\QQ.exe:690026472
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CCC.exe:-450218975
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\TXPlatform.exe:1333314291
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\HydraVision\HydraDM.exe:1172500548
+\Device\HarddiskVolume1\Program Files (x86)\ATI Technologies\HydraVision\HydraDM64.exe:-687771905
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe:1614994312
+\Device\HarddiskVolume2\Program Files\QQ2012\Bin\QQExternal.exe:521267227
+\Device\HarddiskVolume1\Program Files (x86)\Internet Explorer\iexplore.exe:-1253713386
+\Device\HarddiskVolume1\Program Files (x86)\Internet Explorer\iexplore.exe:-1253713386
+\Device\HarddiskVolume1\Program Files (x86)\Internet Explorer\iexplore.exe:-1253713386
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcpackages\vcpkgsrv.exe:-605948455
+\Device\HarddiskVolume1\Windows\System32\notepad.exe:1564987406
+\Device\HarddiskVolume1\Windows\System32\notepad.exe:1564987406
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcpackages\vcpkgsrv.exe:-605948455
+\Device\HarddiskVolume1\Program Files (x86)\Internet Explorer\iexplore.exe:-1253713386
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe:-826447145
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe:-826447145
+\Device\HarddiskVolume1\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\mspdbsrv.exe:-749133081
+\Device\HarddiskVolume1\Windows\System32\notepad.exe:1564987406
+\Device\HarddiskVolume4\fans'C++Project\Taskiller\Debug\list_load.exe:-1498686884
